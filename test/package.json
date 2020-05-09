@@ -1,0 +1,23 @@
+{
+  "name": "learn_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13164286167/learn_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/13164286167/learn_node/issues"
+  },
+  "homepage": "https://github.com/13164286167/learn_node#readme",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "xeslive_databox": "^1.0.64"
+  }
+}
